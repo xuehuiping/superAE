@@ -1,4 +1,4 @@
-data: '/Users/huihui/git/superAE/data4/.train.pt'
+data: '/home/xuehp/git/superAE/data4/.train.pt'
 log: 'data4/lcsts/'
 epoch: 10
 batch_size: 64
